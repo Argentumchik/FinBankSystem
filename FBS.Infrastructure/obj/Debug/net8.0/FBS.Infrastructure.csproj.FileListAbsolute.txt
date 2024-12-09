@@ -1,0 +1,17 @@
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\bin\Debug\net8.0\FBS.Infrastructure.deps.json
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\bin\Debug\net8.0\FBS.Infrastructure.runtimeconfig.json
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\bin\Debug\net8.0\FBS.Infrastructure.dll
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\bin\Debug\net8.0\FBS.Infrastructure.pdb
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\bin\Debug\net8.0\FBS.Core.dll
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\bin\Debug\net8.0\FBS.Core.pdb
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\FBS.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\FBS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\FBS.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\FBS.Infrastructure.AssemblyInfo.cs
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\FBS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\FBS.Infr.3836A1B3.Up2Date
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\FBS.Infrastructure.dll
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\refint\FBS.Infrastructure.dll
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\FBS.Infrastructure.pdb
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\FBS.Infrastructure.genruntimeconfig.cache
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\ref\FBS.Infrastructure.dll

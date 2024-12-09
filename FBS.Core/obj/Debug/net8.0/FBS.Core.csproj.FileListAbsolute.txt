@@ -1,0 +1,14 @@
+D:\Projects\repo\FinBankSystem\FBS.Core\bin\Debug\net8.0\FBS.Core.deps.json
+D:\Projects\repo\FinBankSystem\FBS.Core\bin\Debug\net8.0\FBS.Core.runtimeconfig.json
+D:\Projects\repo\FinBankSystem\FBS.Core\bin\Debug\net8.0\FBS.Core.dll
+D:\Projects\repo\FinBankSystem\FBS.Core\bin\Debug\net8.0\FBS.Core.pdb
+D:\Projects\repo\FinBankSystem\FBS.Core\obj\Debug\net8.0\FBS.Core.csproj.AssemblyReference.cache
+D:\Projects\repo\FinBankSystem\FBS.Core\obj\Debug\net8.0\FBS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\repo\FinBankSystem\FBS.Core\obj\Debug\net8.0\FBS.Core.AssemblyInfoInputs.cache
+D:\Projects\repo\FinBankSystem\FBS.Core\obj\Debug\net8.0\FBS.Core.AssemblyInfo.cs
+D:\Projects\repo\FinBankSystem\FBS.Core\obj\Debug\net8.0\FBS.Core.csproj.CoreCompileInputs.cache
+D:\Projects\repo\FinBankSystem\FBS.Core\obj\Debug\net8.0\FBS.Core.dll
+D:\Projects\repo\FinBankSystem\FBS.Core\obj\Debug\net8.0\refint\FBS.Core.dll
+D:\Projects\repo\FinBankSystem\FBS.Core\obj\Debug\net8.0\FBS.Core.pdb
+D:\Projects\repo\FinBankSystem\FBS.Core\obj\Debug\net8.0\FBS.Core.genruntimeconfig.cache
+D:\Projects\repo\FinBankSystem\FBS.Core\obj\Debug\net8.0\ref\FBS.Core.dll
