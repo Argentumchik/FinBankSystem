@@ -5,4 +5,5 @@ public record CustomerCreateRequest(
     string? LastName, 
     string? PhoneNumber, 
     string? Email, 
-    DateTime DateOfBirth);
+    DateTime DateOfBirth,
+    Guid UserId);

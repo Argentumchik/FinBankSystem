@@ -17,4 +17,8 @@ public class CustomerEntity
     public DateTime CreatedDate { get; set; }
     
     public DateTime UpdatedDate { get; set; }
+
+    public UserEntity User { get; set; }
+
+    public Guid UserId { get; set; }
 }

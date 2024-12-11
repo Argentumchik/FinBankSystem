@@ -47,7 +47,8 @@ public class CustomerRepository : ICustomerRepository
             request.LastName,
             request.PhoneNumber,
             request.Email,
-            request.DateOfBirth);
+            request.DateOfBirth,
+            request.UserId);
 
         var customerEntity = _mapper.Map<CustomerEntity>(customer);
 

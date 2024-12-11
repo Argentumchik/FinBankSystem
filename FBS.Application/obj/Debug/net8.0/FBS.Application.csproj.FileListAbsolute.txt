@@ -17,3 +17,4 @@ D:\Projects\repo\FinBankSystem\FBS.Application\obj\Debug\net8.0\refint\FBS.Appli
 D:\Projects\repo\FinBankSystem\FBS.Application\obj\Debug\net8.0\FBS.Application.pdb
 D:\Projects\repo\FinBankSystem\FBS.Application\obj\Debug\net8.0\FBS.Application.genruntimeconfig.cache
 D:\Projects\repo\FinBankSystem\FBS.Application\obj\Debug\net8.0\ref\FBS.Application.dll
+D:\Projects\repo\FinBankSystem\FBS.Application\obj\Debug\net8.0\FBS.Application.sourcelink.json

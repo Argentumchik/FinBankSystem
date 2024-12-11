@@ -12,3 +12,4 @@ D:\Projects\repo\FinBankSystem\FBS.Core\obj\Debug\net8.0\refint\FBS.Core.dll
 D:\Projects\repo\FinBankSystem\FBS.Core\obj\Debug\net8.0\FBS.Core.pdb
 D:\Projects\repo\FinBankSystem\FBS.Core\obj\Debug\net8.0\FBS.Core.genruntimeconfig.cache
 D:\Projects\repo\FinBankSystem\FBS.Core\obj\Debug\net8.0\ref\FBS.Core.dll
+D:\Projects\repo\FinBankSystem\FBS.Core\obj\Debug\net8.0\FBS.Core.sourcelink.json

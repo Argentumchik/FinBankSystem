@@ -15,3 +15,4 @@ D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\refint\FBS.In
 D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\FBS.Infrastructure.pdb
 D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\FBS.Infrastructure.genruntimeconfig.cache
 D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\ref\FBS.Infrastructure.dll
+D:\Projects\repo\FinBankSystem\FBS.Infrastructure\obj\Debug\net8.0\FBS.Infrastructure.sourcelink.json

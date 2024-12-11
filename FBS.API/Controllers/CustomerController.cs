@@ -1,11 +1,13 @@
 using FBS.Core.DTOs;
 using FBS.Core.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FBS.API.Controllers;
 
 [ApiController]
 [Route("api/customers")]
+[Authorize]
 public class CustomerController : ControllerBase
 {
     private readonly ICustomerService _customerService;

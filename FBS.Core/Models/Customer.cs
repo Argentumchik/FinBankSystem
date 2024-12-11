@@ -13,13 +13,18 @@ public class Customer
     public string? Email { get; }
     
     public DateTime DateOfBirth { get; }
+    
+    public Guid UserId { get; }
+    
+    
 
     private Customer(Guid id,
                      string? firstName, 
                      string? lastName, 
                      string? phoneNumber, 
                      string? email, 
-                     DateTime dateOfBirth)
+                     DateTime dateOfBirth,
+                     Guid userId)
     {
         Id = id;
         FirstName = firstName;
@@ -27,6 +32,7 @@ public class Customer
         PhoneNumber = phoneNumber;
         Email = email;
         DateOfBirth = dateOfBirth;
+        UserId = userId;
     }
 
     public static Customer Create(Guid id, 
@@ -34,8 +40,9 @@ public class Customer
                            string? lastName, 
                            string? phoneNumber, 
                            string? email, 
-                           DateTime dateOfBirth)
+                           DateTime dateOfBirth,
+                           Guid userId)
     {
-        return new Customer(id, firstName, lastName, phoneNumber, email, dateOfBirth);
+        return new Customer(id, firstName, lastName, phoneNumber, email, dateOfBirth, userId);
     }
 }
